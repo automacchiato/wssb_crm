@@ -1,5 +1,5 @@
 <?php
-$host = "localhost";
+$host = "127.0.0.1:3306";
 $user = "u647109978_admin";
 $pass = "admin";
 $db   = "u647109978_wssb";
